@@ -1,4 +1,4 @@
 ---
-title: Table of Contents
+title: Landing Page
 ---
 
