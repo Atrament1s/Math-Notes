@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "AP Calculus AB",
+    pageTitle: "Math Notes",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
