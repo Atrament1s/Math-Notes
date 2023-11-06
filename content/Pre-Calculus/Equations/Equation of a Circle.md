@@ -1,0 +1,1 @@
+The equation of a circle is $(x-h)^2+(y-k)^2=r^2$ where the center of the circle is $(h,k)$ and the radius is $r$. It is important to remember that increasing $h$ moves the circle farther to the left, and increasing $k$ moves the circle farther down.
