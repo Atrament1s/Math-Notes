@@ -23,6 +23,14 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+        <script src="https://utteranc.es/client.js"
+          repo="Atrament1s/Math-Notes"
+          issue-term="pathname"
+          label="Comment"
+          theme="github-dark-orange"
+          crossorigin="anonymous"
+          async>
+      </script>
       </footer>
     )
   }
